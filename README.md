@@ -1,1 +1,1 @@
-# Sixfab-RPi-5G-HAT
+# Sixfab Raspberry Pi M.2 5G HAT
